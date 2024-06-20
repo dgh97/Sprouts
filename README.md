@@ -1,11 +1,11 @@
 # Sprouts
 E-commerce website selling all natural moisturizing lip balms
 
-TECH STACK
+# TECH STACK
 
-Frontend: HTML (using EJS for dynamic pages), JavaScript (for client-side validation)
-Backend: Node.js with Express.js
-Database: MySQL
+//Frontend: HTML (using EJS for dynamic pages), JavaScript (for client-side validation)
+//Backend: Node.js with Express.js
+//Database: MySQL
 
 # Features List
 
