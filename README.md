@@ -14,7 +14,7 @@ Node.js with Express.js
 
 ### Database:   
 
-MySQL   
+MariaDB   
 
 # Features List
 
