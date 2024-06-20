@@ -11,9 +11,9 @@ Database: MySQL
 
 User Registration and Login
 
--Create an account
--Log in to account
--Reset password
+  Create an account
+  Log in to account
+  Reset password
 
 Product Catalog
 
@@ -34,10 +34,10 @@ Shopping Cart
 
 Checkout Process
 
--Proceed to checkout
--Enter shipping address
--Choose payment method
--Review order details
+  Proceed to checkout
+  Enter shipping address
+  Choose payment method
+  Review order details
 
 Order Confirmation
 
