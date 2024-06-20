@@ -1,0 +1,12 @@
+{
+  "name": "sprouts",
+  "version": "1.0.0",
+  "description": "E-commerce website selling all natural moisturizing lip balms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
