@@ -46,8 +46,7 @@ Order Confirmation
 User Account Management
 
 -View and edit profile information
--View order history
-
+-View order history 
 Admin Panel
 
 -Manage products (add, edit, delete)
