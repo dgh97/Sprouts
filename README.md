@@ -1,66 +1,76 @@
 # Sprouts
 E-commerce website selling all natural moisturizing lip balms
 
-# TECH STACK
+# Tech Stack
 
-//Frontend: HTML (using EJS for dynamic pages), JavaScript (for client-side validation)
-//Backend: Node.js with Express.js
-//Database: MySQL
+### Frontend:  
+
+HTML (using EJS for dynamic pages)  
+JavaScript (for client-side validation)  
+
+### Backend:  
+
+Node.js with Express.js  
+
+### Database:   
+
+MySQL   
 
 # Features List
 
-User Registration and Login
+### User Registration and Login
 
-  Create an account
-  Log in to account
-  Reset password
+-Create an account  
+-Log in to account  
+-Reset password  
 
-Product Catalog
+### Product Catalog
 
--Browse products by category
--Search products by keywords
--Filter products by attributes
+-Browse products by category  
+-Search products by keywords  
+-Filter products by attributes  
 
-Product Details
+### Product Details
 
 -View product details
 -View product reviews and ratings
 
-Shopping Cart
+### Shopping Cart
 
--Add products to cart
--View cart contents
--Update or remove items in cart
+-Add products to cart  
+-View cart contents  
+-Update or remove items in cart  
 
-Checkout Process
+### Checkout Process
 
-  Proceed to checkout
-  Enter shipping address
-  Choose payment method
-  Review order details
+-Proceed to checkout  
+-Enter shipping address  
+-Choose payment method  
+-Review order details  
 
-Order Confirmation
+### Order Confirmation
 
--Receive order confirmation email
+-Receive order confirmation email  
 
-User Account Management
+### User Account Management
 
--View and edit profile information
--View order history 
-Admin Panel
+-View and edit profile information  
+-View order history   
 
--Manage products (add, edit, delete)
--Manage customer orders
--Manage user accounts
--View sales reports (daily, weekly, monthly, yearly)
+### Admin Panel
 
-Product Reviews
+-Manage products (add, edit, delete)  
+-Manage customer orders   
+-Manage user accounts   
+-View sales reports (daily, weekly, monthly, yearly)  
 
--Write a review
--Rate a product
+### Product Reviews
 
-Promotions and Discounts
+-Write a review  
+-Rate a product  
 
--Apply discount codes during checkout
--Create and manage promotions
+### Promotions and Discounts
+
+-Apply discount codes during checkout  
+-Create and manage promotions  
 
