@@ -1,0 +1,31 @@
+<%- include('partials/header', { title: 'Home', additionalCss: '/css/home.css' }) %>
+<%- include('partials/navbar') %>
+
+<main>
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Welcome to Sprouts</h1>
+            <p>Your one-stop shop for all things green and fresh!</p>
+            <a href="/products" class="btn">Shop Now</a>
+        </div>
+    </section>
+
+    <section class="featured-products">
+        <h2>Featured Products</h2>
+        <div class="product-grid">
+            <!-- Loop through products to display -->
+            <% products.forEach(product => { %>
+                <div class="product-card">
+                    <img src="<%= product.imageUrl %>" alt="<%= product.name %>">
+                    <h3><%= product.name %></h3>
+                    <p>$<%= product.price %></p>
+                    <a href="/products/<%= product.id %>" class="btn">View Details</a>
+                </div>
+            <% }) %>
+        </div>
+    </section>
+</main>
+
+<%- include('partials/footer') %>
+<script src="/js/home.js"></script>
+
